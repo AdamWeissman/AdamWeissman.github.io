@@ -1,11 +1,11 @@
 # Site settings
 author: Adam Weissman
-title: 
+title: Thor's Hammer
 header-img: img/home-bg.png
 email: adam@comedytragedyepic.com
 copyright_name: Adam Weissman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Smash Problems.  Work with Dust.  
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AdamWeissman
