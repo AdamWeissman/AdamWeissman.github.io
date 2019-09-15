@@ -31,7 +31,7 @@ SO, the point is, the one I'm trying to make in regards to hammers is: that whil
 
 In essence: it doesn't matter what the problem is.  You come it at with the same force of process, every time.  And so... that's how I came about the title for this technical blog to chart my learning progress; this isn't just a blog to reflect on the specific skill of programming, but perhaps moreso a blog for me to refine an approach to problem solving.  Thus, while I may not have all the tools necessary to be a success (as of yet), making a mission of breaking problems into their smallest component parts will serve well in any circumstance.
 
-....................................................................................................................................................................................
+................................................................................................................................
 
 In the About section of this blog, I make reference to Eliyahu Goldratt's Theory of Constraints.  I'm not an expert on TOC, but it's essentially a one-size-fits-all approach that gives you the ability to tackle any problem... from manufacturing, to marketing, to retail, and relationships.  And, one would assume even software. 
 
@@ -61,6 +61,6 @@ So, from there I came to the conclusion/suspicion that by studying the rspec tes
 
 *The tests give you a sense of how an expert builds a program in the abstract (and debugs it!).*  In other words: if you build a house out of steel, stone, wood, or plastics they'll all be structurally different... and yet, they will all provide the same basic function.  To follow with the materials analogy, the most important aspect of the house/structure is often not "how" it is built -- but how it stands up to conditions in the real world.
 
-....................................................................................................................................................................................
+................................................................................................................................
 
 Anyways, I could be wrong.  *Am probably wrong*.  But that's my hypothesis for now, and the thing I'm hoping to disprove *as quickly as possible* so I can iterate up and on to something better.  Until then...
