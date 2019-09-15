@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "When All You Have is a Hammer..."
-date:       2019-09-15 03:16:36 +0000
+date:       2019-09-14 23:16:37 -0400
 permalink:  when_all_you_have_is_a_hammer
 ---
 
-<h2><p align=right>...everything looks like a nail.</h2></p>
+...everything looks like a nail.
 
-And well... that's *typically* considered <font color="red">**bad**</font>, because it really constrains the way you look at things. 
+And well... that's *typically* considered  "bad", because it really constrains the way you look at things. 
 
 As a beginning coder, I've often heard this hammer analogy used in the context of "there will be many more things to learn" and I've personally intepreted it as "don't get comfortable, you don't know nothing yet."  And I never liked that.
 
@@ -15,23 +15,23 @@ To make a different kind of analogy, from when I used to write SEO content.  I r
 
 In Irving Stone's novelization of Michelangelo's life *The Agony and The Ecstacy*, Michelangelo's most burning passion is to sculpt -- and yet, because of circumstances -- and his desire and *his will* to be simply the best... we know him mostly for his fresco on the roof of the Sistine Chapel; a single instance of his ability -- and not the class of genius he was.
 
-<center>![](https://thumbs-prod.si-cdn.com/eqQSMLxp1SmDMqk37CHK6c_HAlY=/420x240/https://public-media.si-cdn.com/filer/The-Creation-of-Adam-Michelangelo-631.jpg)</center>
+![](https://thumbs-prod.si-cdn.com/eqQSMLxp1SmDMqk37CHK6c_HAlY=/420x240/https://public-media.si-cdn.com/filer/The-Creation-of-Adam-Michelangelo-631.jpg)
 
 Consider the tomb of Pope Julius which Michelangelo may have personally ranked higher than his work on the chapel.
 
-<center>![](https://www.michelangelo-gallery.org/thumbnail/178000/178201/mini_normal/Tomb-Of-Pope-Julius-II.jpg?ts=1459229076)</center>
+![](https://www.michelangelo-gallery.org/thumbnail/178000/178201/mini_normal/Tomb-Of-Pope-Julius-II.jpg?ts=1459229076)
 
 And here's another work of Michelangelo, fulfilling the role of architect.
 
-<center>![](http://www.michelangelo.net/Santa%20Maria%20degli%20Angeli%20e%20dei%20Martiri%20Michelangelo.jpg)</center>
+![](http://www.michelangelo.net/Santa%20Maria%20degli%20Angeli%20e%20dei%20Martiri%20Michelangelo.jpg)
 
 SO, the point is, the one I'm trying to make in regards to hammers is: that while Michelangelo could make use of many "tools"... he himself was a one of a kind hammer that could turn any problem he faced into a nail.  Sorta like Thor's Hammer: Mjolnir...
 
- <center>![](https://media.giphy.com/media/qisrRco5yAdTq/giphy.gif)</center>
+![](https://media.giphy.com/media/qisrRco5yAdTq/giphy.gif)
 
 In essence: it doesn't matter what the problem is.  You come it at with the same force of process, every time.  And so... that's how I came about the title for this technical blog to chart my learning progress; this isn't just a blog to reflect on the specific skill of programming, but perhaps moreso a blog for me to refine an approach to problem solving.  Thus, while I may not have all the tools necessary to be a success (as of yet), making a mission of breaking problems into their smallest component parts will serve well in any circumstance.
 
-<center>....................................................................................................................................................................................</center>
+....................................................................................................................................................................................
 
 In the About section of this blog, I make reference to Eliyahu Goldratt's Theory of Constraints.  I'm not an expert on TOC, but it's essentially a one-size-fits-all approach that gives you the ability to tackle any problem... from manufacturing, to marketing, to retail, and relationships.  And, one would assume even software. 
 
@@ -61,6 +61,6 @@ So, from there I came to the conclusion/suspicion that by studying the rspec tes
 
 *The tests give you a sense of how an expert builds a program in the abstract (and debugs it!).*  In other words: if you build a house out of steel, stone, wood, or plastics they'll all be structurally different... and yet, they will all provide the same basic function.  To follow with the materials analogy, the most important aspect of the house/structure is often not "how" it is built -- but how it stands up to conditions in the real world.
 
-<center>....................................................................................................................................................................................</center>
+....................................................................................................................................................................................
 
 Anyways, I could be wrong.  *Am probably wrong*.  But that's my hypothesis for now, and the thing I'm hoping to disprove *as quickly as possible* so I can iterate up and on to something better.  Until then...
