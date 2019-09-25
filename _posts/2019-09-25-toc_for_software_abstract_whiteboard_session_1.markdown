@@ -73,7 +73,7 @@ After that we had a new goal:
 > Determine final outputs, in order to determine dependencies and preconditions
 > 
 
-That lead us to the constraint/problem of the whole **"WHERE TO BEGIN" ISSUE** striking/rising again.  So, we reframed the goal.  With the following commentary:  Knowing where to being IS NOT the issue actual... the actual issue is assuming that we need to determine the "absolutely final" outputs.
+That lead us to the constraint/problem of the whole **"WHERE TO BEGIN" ISSUE** striking/rising again.  So, we reframed the goal.  With the following commentary:  Knowing where to begin IS NOT the issue actual... the actual issue is assuming that we need to determine the "absolutely final" outputs.
 
 With that in mind, the replacement goal became
 
@@ -150,7 +150,7 @@ Some additional notes we added when our final goal became "What else is missing?
 * we realized that the item ranked "35" did not need to be included in the 1-17 steps because the linear process made the note (35) implicit
 * we also realized that steps 1&2 could possibly be combined as long as "y" can be specifically referenced
 * we realized that step 3 might be redundant
-* also reaized that steps 4-7 could not be tested until step 10
+* also realized that steps 4-7 could not be tested until step 10
 * also that steps 13-16 could be if/else statements in a single function, or perhaps separate functions depending on complexity.
 
 The biggest takeaway, surprise, of this particular whiteboarding sessions was that we were able to work towards a concrete solution despite dealing with random conditions on a completely abstract problem.
