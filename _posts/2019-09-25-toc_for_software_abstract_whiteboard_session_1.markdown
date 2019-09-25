@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "TOC for Software, Abstract Whiteboard Session 1"
-date:       2019-09-25 11:56:33 +0000
+date:       2019-09-25 07:56:34 -0400
 permalink:  toc_for_software_abstract_whiteboard_session_1
 ---
 
@@ -141,7 +141,7 @@ The biggest surprise came when put it into order, instead of using the multiples
 >  14. A(X) **add this**
 >  15. B(X) **add this**
 >  16. C(X) **add this**
->  17. "H" (or 14,15,or16 is returned
+>  17. "H" (or 14,15,or16)  is returned
 >  
 
 Some additional notes we added when our final goal became "What else is missing?" was:
