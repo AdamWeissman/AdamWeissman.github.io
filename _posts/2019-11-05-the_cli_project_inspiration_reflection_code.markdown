@@ -5,10 +5,7 @@ date:       2019-11-05 06:04:44 -0500
 permalink:  the_cli_project_inspiration_reflection_code
 ---
 
-<center>
-<h3>THIS PART IS ABOUT THANKS, AND INSPIRATION</h3>
-<b>--- SKIP IT IF YOU WANT JUST THE PART ABOUT CODING. ---</b>
-</center>
+**THIS PART IS ABOUT THANKS, AND INSPIRATION -- SKIP IT IF YOU WANT JUST THE PART ABOUT CODING.**
 
 So, before I get into this retrospective, I want to show special thanks to the people that made this project possible.  There is former Flatiron student Sammy Steiner who inpsired me to THINK BIG.  I never got to meet Sammy, but when I saw the CLI Project looming on the horizon I started watching "show and tells", and googling around for CLI project.  I thought wouldn't it be cool if you could animate something from the CLI, but was uncertain if it was even possible.  [Sammy Steiner's blog post](https://sammysteiner.github.io/blog/2017/04/13/bringing-terminal-applications-to-life-cli-animations-with-ruby/) captured my imagination.  Thanks to my friend Ryan Louie, an artist/animator who helped me brainstorm a better 'product'.  And, most of all thanks to instructor Beth Schofield whose patience and instruction made it possible for me to create this project, and become confident that I could.
 
@@ -28,10 +25,7 @@ Below is a 'walkthrough' of me using the program.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pm98ZQAE9t4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-<center>
-<h3>THIS PART IS MY REFLECTION OF THE LEARNING EXPERIENCE</h3>
-<b>--- SKIP IT IF YOU WANT JUST THE PART ABOUT CODING. ---</b>
-</center>
+**THIS PART IS MY REFLECTION OF THE LEARNING EXPERIENCE --- SKIP IT IF YOU WANT JUST THE PART ABOUT CODING.**
 
 Before I got to the CLI project there, I was a bit terrified.  I felt like there was too much hand-holding on the labs thanks (or no thanks) to RSPEC which made it nary impossible to get beyond the feeling that I was reassembling someone else's puzzle.  Anyways, as I had accelerated through a jungle of labs, I began to worry whether or not I would become more lost OR if I would just get to the other side more quickly...
 
@@ -51,10 +45,8 @@ On the project however, the instructors became Mentors and Allies.  Heroes to em
 
 Maintaining the battle analogy: labs versus projects; labs are like training in a swamp where you might die of malaria or end up with a rotten foot.  Projects on the other hand are for real.  Maybe you'll get killed and have to drop out.  On the other hand, maybe you'll get wounded (and you probably should), but at least then you're a veteran.  Still a rookie, still a beginner, but at least you know the quest has really begun. 
 
-<center>
-<h3>FINALLY... ABOUT THAT CODE...</h3>
-<b></b>
-</center>
+
+**FINALLY... ABOUT THAT CODE...**
 
 The Narrabot.
 
