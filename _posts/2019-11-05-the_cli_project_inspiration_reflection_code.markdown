@@ -9,15 +9,7 @@ permalink:  the_cli_project_inspiration_reflection_code
 
 So, before I get into this retrospective, I want to show special thanks to the people that made this project possible.  There is former Flatiron student Sammy Steiner who inpsired me to THINK BIG.  I never got to meet Sammy, but when I saw the CLI Project looming on the horizon I started watching "show and tells", and googling around for CLI project.  I thought wouldn't it be cool if you could animate something from the CLI, but was uncertain if it was even possible.  [Sammy Steiner's blog post](https://sammysteiner.github.io/blog/2017/04/13/bringing-terminal-applications-to-life-cli-animations-with-ruby/) captured my imagination.  Thanks to my friend Ryan Louie, an artist/animator who helped me brainstorm a better 'product'.  And, most of all thanks to instructor Beth Schofield whose patience and instruction made it possible for me to create this project, and become confident that I could.
 
-In my "past life," I had been an aspiring screenwriter/novelist.  I even had a manager.  I wasn't the kind of dude to spend 7 years on a single project, but due to the nature of 'writing' it was always possible to doubt whether a project was finished; how might I say this better; or differently; or not at all; or something else entirely... I was almost going to bring that handicap to the world of code -- and I probably would have -- except, Beth (who had been a musician before a coder) made it clear that I needed to forget all that if I wanted to thrive.
-
-Lastly, and I probably shouldn't include the next 'Thanks' (because it may seem spiteful) BUT it was HUGE part of why you see the project as it is.  You see, I almost decided NOT to include the animation at all.  The project was done and I felt ready to move on to Sinatra and beyond... except, while discussing projects with other students, I was told "no offense, but your project is a toy."  Of course I was -- offended that is.  But, neither could I be mad at the student for they were trying to help me... and neither could I be mad because my project IS a toy.
-
-So I thought to myself about toys and had the realization that if I were building a toy (which I was), that it should be as novel as I could make it within the confines of the project.  I also had the realization that even toys have value.  To the people that use them, and those who create them.  Do I marvel more at the creator of Krazy Glue or The Slinky.  Perhaps both inventions pale in comparison to the creator of The Pet Rock, for that genius sold us all what was free and became a millionaire in the process -- all for seeing the world a little bit differently.  Kind of like Steve Jobs.
-
-Strangely, that off the cuff comment inspired quite the revelation: that if I could have been one of the creators of GoLang (the Programming Language developed at Google), or a creator on Pokémon Go... well, I'd rather have been part of Pokémon Go.  And as the word TOY reverberated inside my skill I was reminded of Steven Johnson's book *Wonderland: How Play Made the Modern World.*  The thesis of the book may be debatable, but as Johnson's perspective spans history and shows how [The Mechanical Turk ](https://en.wikipedia.org/wiki/The_Turk), (a toy) was the first link in a chain that reached through Charles Babbage to: IBM's Deep Blue which became Watson.  You might even say "full circle!" as you point to Amazon's Mechanical Turk, brainchild of Jeff Bezos -- inspired by... a toy.
-
-Long story short, had I not consiously and fully embraced that this project is/was a toy.  It would not have the animation it does had I not been forced to view it so.  And, if I were to refactor this, or start from scratch.  I think I'd probably just build a fortune telling chatbot that employed tricks snatched from mentalism, things like: "picture a large animal, it is grey, etc etc"... until... "were you thinking of an elephant?" or "imagine two very simple shapes, the first that come to mind... really DO it NOW  Visualize one as VIOLET and the other as YELLOW.  One shape inside the other... did you picture a circle and a triangle?" ... that sort of thing.
+In my "past life," I had been an aspiring writer.  I wasn't the kind of dude to spend 7 years on a single script, but due to the nature of 'writing' it was ALWAYS possible to doubt whether a project was finished... plague yourself with questions like: how might I say this better; or differently; or not at all; or something else entirely. I was almost going to bring that handicap to the world of code -- and I probably would have -- except, Beth (who had been a musician before a coder) made it clear that I needed to forget all that if I wanted to thrive.
 
 Below is a 'walkthrough' of me using the program.
 
@@ -29,22 +21,11 @@ Below is a 'walkthrough' of me using the program.
 
 Before I got to the CLI project there, I was a bit terrified.  I felt like there was too much hand-holding on the labs thanks (or no thanks) to RSPEC which made it nary impossible to get beyond the feeling that I was reassembling someone else's puzzle.  Anyways, as I had accelerated through a jungle of labs, I began to worry whether or not I would become more lost OR if I would just get to the other side more quickly...
 
-Long story short... I made it to the other side, more quickly.  Instead of grabbing at every empty canteen or rusty machete that littered 'the jungle' floor, and attempting to carry them all (and dying in the process) I discovered there was a shopping mall just over the ridge.
+Long story short... I made it to the other side, (more quickly).
 
-Looking back from the food court...  I realize it wasn't a jungle of information, but a desert.
+And, I discovered that nearly all of the significant learning took place during the project.
 
-For struggling to decipher the design of someone else's code (through RSPEC) seems a little bit like admiring pyramids and ruins and then attempting to do it backwards.  There were also mirages, fill-in-the-blank, guess-wildly-until-blank-is-filled-in, and fill-in-the-blank that felt like victories only if they remained unexamined.  
-
-Thus the real oasis of knowledge was The Project.
-
-I only wish I had gotten there sooner.  For the project, it wasn't a matter of guessing until I got it right (maybe a little) but having to decide whether or not I would abandon a feature if I couldn't do it, or learning how.
-
-In the course of labs, I perceived Instructors as Priests on High.  The Ask a Question button as something vaguely shameful.  Like the button rats press to get a pellet of sweets in their cage -- only, you don't always get the sweet.  Sometimes you get nothing, or a piece of a salt... and you have to struggle on The Wheel until you can come back later and press the button again (only more desperately).
-
-On the project however, the instructors became Mentors and Allies.  Heroes to emulate and learn from.  Squad leaders in the trenches and on the front line.
-
-Maintaining the battle analogy: labs versus projects; labs are like training in a swamp where you might die of malaria or end up with a rotten foot.  Projects on the other hand are for real.  Maybe you'll get killed and have to drop out.  On the other hand, maybe you'll get wounded (and you probably should), but at least then you're a veteran.  Still a rookie, still a beginner, but at least you know the quest has really begun. 
-
+It's not to say I don't value RSPEC, I do, but I suspect I would probably get more out of it if I wrote them myself.  I realize I'm not at the point in my knowledge, so it's sort of a moot point... but I can't help but feel (even now) that many of those labs were more like 'detours' than 'treacherous roads' (treacherous roads where you grow from the experience).
 
 **FINALLY... ABOUT THAT CODE...**
 
