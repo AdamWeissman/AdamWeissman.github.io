@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Sinatra Pre-Project Resource Blog; Standing on the Shoulders of Giants"
-date:       2019-12-15 14:25:12 +0000
+date:       2019-12-15 09:25:13 -0500
 permalink:  the_sinatra_pre-project_resource_blog_standing_on_the_shoulders_of_giants
 ---
 
