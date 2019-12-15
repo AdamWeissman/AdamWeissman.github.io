@@ -71,7 +71,7 @@ Anthony Prescott-Brooks's "[Sinatra MVCs](https://anthonbrooks.github.io/sinatra
 
 Kristin Kraemer's "[Planning Out My Sinatra Project](https://kristinhannah.github.io/planning_out_my_sinatra_project)"  gives an example of how she mapped about her models, views, and controllers.
 
-Maas Kono's "[MVC in Sinatra](https://maasa333.github.io/mvc_in_sinatrahas)"  some code, but shines as an analogy to understand MVC.  The code is very straightforward.
+Maasa Kono's "[MVC in Sinatra](https://maasa333.github.io/mvc_in_sinatrahas)"  some code, but shines as an analogy to understand MVC.  The code is very straightforward.
 
 Warren Yao's "[Sinatra Project: Expense Tracker](https://wyao905.github.io/sinatra_project_expense_tracker)"  discusses models and migration tables.  Its discussion of models and migration tables -- more conceptual than code)
 
