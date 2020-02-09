@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Portfolio Project - ARIADNE"
-date:       2020-02-09 14:28:53 +0000
+date:       2020-02-09 09:28:54 -0500
 permalink:  sinatra_portfolio_project_-_ariadne
 ---
 
@@ -21,7 +21,7 @@ I felt if the process turned out to be a **total disaster**, my consolation was 
 
 **In hindsight, I wish I had written down the project requirements and kept them on a post-it next to my computer monitor that I might've always had "in mind" what to focus on.** I probably would've also liked to have a plain text file with headings of "THIS IS HOW YOU DO SUCH AND SUCH A THING" with corresponding code examples pasted below, as well as in depth commentary for what was happening AND WHY.  I think that would've saved me a lot of time in terms of guessing and asking and guessing some more and asking about guesses and well... it was often a nightmare.  I'd be on AAQ asking a coach about some thing that I thought was a problem only to discover it was something else.
 
-When it came time to plan the project, I knew what I wanted to do but not exactly how to do it.  I thought I could watch the instructional tutorials and figure it out from there.  This did not work very well, other than setting up Corneal and doing the "git stuff" because my project was not a one to one in any meaningful sense.  I had seen other students take much time going through the course and spending little time on the projects, only to later have remorse about not fully understanding what they were doing in later sections.  **Given my problem of not being able to really understand stuff without the larger context, I knew that any temptations to scale back my project to "just move on" would result in a much more epic failure for me later on.  **
+When it came time to plan the project, I knew what I wanted to do but not exactly how to do it.  I thought I could watch the instructional tutorials and figure it out from there.  This did not work very well, other than setting up Corneal and doing the "git stuff" because my project was not a one to one in any meaningful sense.  I had seen other students take much time going through the course and spending little time on the projects, only to later have remorse about not fully understanding what they were doing in later sections.  **Given my problem of not being able to really understand stuff without the larger context, I knew that any temptations to scale back my project to "just move on" would result in a much more epic failure for me later on.**
 
 Because I had planned to spend more time on the project (I had budgeted approximately 1 month for it), I did a detailed PDF mock up that I sent to the instructors and advanced students, and anyone willing to look, to get a sense of what people thought.  If it seemed to make sense to them, then I felt I was on "solid enough ground" to move on and tackle it.  If someone said "that's impossible with the information you're supposed to know" then I would've had to rethink what I intended to do.
 
@@ -39,7 +39,5 @@ I'm now looking forward to my project review to see all that is wrong and hopefu
 
 And in a way, that's what my project Ariadne is all about -- solving problems.  It was a process that I developed over time using pen and paper, notecards, or even two plain text editors side by side.  It would help me prioritize the order that I might tackle the tasks, something greatly helpful even in the development of this project.  To do what is quick and easy first, or quick and time consuming.  Follow that with what is difficult and quick, followed by what is difficult and time consuming,  Do what is necessary followed by what is optional.  And if something is ambiguoius, attempt to do the aforementioned things first that you have enough context to fill in the gaps...  As much as I wanted this project for myself (even in its buggy form)... I wanted it to be available to other students, that they might also reap the rewards of saving time when tackling and planning difficult projects.
 
-```
-SPECIAL THANKS TO: Steven Crouse, Guy Bryant, Meg Gutshall for doing a Code Talk session yesterday which was a "dress rehearsal" for my project review.  Prepping for a dress rehearsal helped give me the motivation to finish the project on time -- just when I was running out of steam -- and also thanks again to all of the above, plus instructors Ayana Zaire and Dustin Anderson, and students Daniel Dawson, Aurangzaib Danial Liaqat Khan, Abiodun Ajagunna, for helping me with code -- and also thanks to past instructors Beth Schofield and Howard DeVennish, for encouragement and confidence.  Thanks to everyone on AAQ, and also the nested forms videos done by Sophie DeBenedetto which I wish I had watched and understood before I even began. 
-```
-
+> SPECIAL THANKS TO: Steven Crouse, Guy Bryant, Meg Gutshall for doing a Code Talk session yesterday which was a "dress rehearsal" for my project review.  Prepping for a dress rehearsal helped give me the motivation to finish the project on time -- just when I was running out of steam -- and also thanks again to all of the above, plus instructors Ayana Zaire and Dustin Anderson, and students Daniel Dawson, Aurangzaib Danial Liaqat Khan, Abiodun Ajagunna, for helping me with code -- and also thanks to past instructors Beth Schofield and Howard DeVennish, for encouragement and confidence.  Thanks to everyone on AAQ, and also the nested forms videos done by Sophie DeBenedetto which I wish I had watched and understood before I even began. 
+> 
