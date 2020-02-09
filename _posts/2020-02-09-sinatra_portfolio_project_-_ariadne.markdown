@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Sinatra Portfolio Project - ARIADNE"
+title:      "Sinatra Portfolio Project ARIADNE"
 date:       2020-02-09 09:28:54 -0500
 permalink:  sinatra_portfolio_project_-_ariadne
 ---
