@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Two MOST IMPORTANT Hours as a Coder"
-date:       2020-02-26 10:57:21 +0000
+date:       2020-02-26 05:57:21 -0500
 permalink:  my_two_most_important_hours_as_a_coder
 ---
 
@@ -12,7 +12,7 @@ Meet [Mark Daniel Delgado](http://www.linkedin.com/in/mark-daniel-delgado-865678
 
 **So how did I meet him in order to experience what I consider the two most important hours of my coding journey?**  It goes back to the first half of the Lao Tzu quote and something that I do which is always look to the other students for inspiration.  I'm constantly on the look out for those who are ahead of me, doing the things I hope to do, and those behind me who I can see will quickly surpass me.  
 
-While I enjoy the projects which are evocative of my previous passion (screen and novel writing), I've had a very difficult time with the labs which make me feel like I'm back in High School.  I've tried different approaches, but none with enough consistency, nor tenacity to find my stride.  The best habit I have been able to develop has been hunting for what looks like expert code.  For anyone else that may hope to do the same, it's important to realize that as a beginner you will not know what is "expert", you will only what code is better than yours.  But, get into the habit of recognizing enough code that is better than yours and you will soon be able to rank what you see; then aim for the top of *that* mountain.  
+While I enjoy the projects which are evocative of my previous passion (screen and novel writing), I've had a very difficult time with the labs which make me feel like I'm back in High School.  I've tried different approaches, but none with enough consistency, nor tenacity to find my stride.  The best habit I have been able to develop has been hunting for what looks like expert code.  For anyone else that may hope to do the same, it's important to realize that as a beginner you will not know what is "expert", you will only what code is better than yours.  However, if you get into the habit of recognizing enough code that is better than yours, you will soon be able to rank what you see; then aim for the top of *that* mountain.  
 
 Back to the labs, while the official solution code was helpful, I always discounted it on the assumption that whoever wrote the tests also wrote the solution.  In my imagination, I assumed they were created simultaneously, one to match the other.  The only thing I knew for certain was that the solution code was not written by someone in a comparable situation to me... and yet, I also knew that more than one solution is possible, and there are often times where solution code looks as if it was hastily written just to pass the test.  To find code more applicable to my situation, I began to go through the forked labs on GitHub, I would tediously go through student by student, or click at random (7-10 forks) for comparison.  I would contrast student forks with the official solutions, *and my solutions*, to see which seemed to be more "self documenting," always in hope that I would discover a student that could write code I wanted to emulate.
 
