@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Crazy Train or "Going Off The Rails" with Phrase Ninja"
-date:       2020-04-05 19:03:18 +0000
+date:       2020-04-05 15:03:19 -0400
 permalink:  the_crazy_train_or_going_off_the_rails_with_phrase_ninja
 ---
 
@@ -51,3 +51,7 @@ But, getting to a point where I could see my app working, where I could actually
 A final reflection, while I have regrets about not having gone about the project in a more "Railsy" way, I also realize that had I been more conscientious and tried to build what I wanted "correctly"... I quite possibly would've really derailed my studies with a project that would've taken me months instead of weeks. I'm grateful to have "hacked" solutions with limited resources and community support, especially in the context of what I hope to do in the future -- I feel that I've learned how to tackle problems that are way beyond me -- but at the same time, I wonder if I would've been better off building a best practice template that showcased "attention to detail" as opposed to "creative problem solving."  
 
 In the future, when I demo this for companies, I hope that what I created can be seen in the light that it was created: an attempt to tackle the unknown, and though I limped to finish line, humbled but not humiliated, I DID make it to the otherside, and hopefully, when I finally get a secure version up on Heroku the user will only be inspired by the projects novelty and never have a clue of what went into it.
+
+VIDEO WALKTHROUGH
+
+https://www.youtube.com/watch?v=nw8IlUhbXTs
