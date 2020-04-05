@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Off the Rails with Phrase Ninja"
-date:       2020-04-05 19:06:20 +0000
+date:       2020-04-05 15:06:21 -0400
 permalink:  off_the_rails_with_phrase_ninja
 ---
 
