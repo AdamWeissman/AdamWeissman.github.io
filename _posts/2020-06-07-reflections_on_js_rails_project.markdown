@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Reflections on JS/Rails Project"
-date:       2020-06-08 02:26:24 +0000
+date:       2020-06-07 22:26:24 -0400
 permalink:  reflections_on_js_rails_project
 ---
 
